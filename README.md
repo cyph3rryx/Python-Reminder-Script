@@ -32,3 +32,7 @@ This is a simple Python program that reminds you of your daily tasks at regular 
 -> The program uses a simple while loop to run the reminder at regular intervals, which may not be the most efficient method.
 
 -> The program relies on the user to enter tasks manually and does not support importing tasks from external sources.
+
+## License
+
+This project is licensed under MIT License. Check the license file for more information.        
