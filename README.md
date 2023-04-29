@@ -3,10 +3,14 @@
 This is a simple Python program that reminds you of your daily tasks at regular intervals. It uses text-to-speech technology to speak the tasks out loud, so you don't have to keep checking your to-do list.
 
 ## Prerequisites
-    Python 3.x
-    Tkinter (Python's standard GUI package)
-    Pyttsx3 (Python library for text-to-speech conversion)
-    A compatible operating system (tested on Windows 10)
+    
+    1/ Python 3.x
+    
+    2/ Tkinter (Python's standard GUI package)
+    
+    3/ Pyttsx3 (Python library for text-to-speech conversion)
+    
+    4/ A compatible operating system (tested on Windows 10)
 
 ## Getting started
 
